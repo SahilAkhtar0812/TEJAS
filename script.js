@@ -14,7 +14,7 @@
          * Gujarati Trader Meta Pixel
          */
 
-        pixelId: '2159739424938812',
+        pixelId: '928327353282128',
 
 
         /*
